@@ -18,8 +18,7 @@ print("Setelah diubah, lstTeman menjadi :",lstTeman)
 print("")
 
 # Menambahkan 2 nama teman
-lstTeman.append("Hafid")
-lstTeman.append("Hasan")
+lstTeman.extend(["Hafid","Hasan"])
 print("")
 print("lstTeman setelah ditambahkan 2 nilai :",lstTeman)
 print("")

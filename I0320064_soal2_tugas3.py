@@ -7,7 +7,7 @@ print("\nDictionary sebelum diubah :\n", mydict)
 
 #Meengubah satu hobi dan sosial media
 mydict["Hobi"] = ("Fotografi", "Membaca buku", "Mendengarkan Musik")
-mydict["Sosmed"] = ("Instagram : @hafiz_adit","Whatsapp : 081393856662","LikedIn : Muhammad Hafiz Aditya")
+mydict["Sosmed"] = ("Instagram : @hafiz_adit","Whatsapp : 081393856662","LinkedIn : Muhammad Hafiz Aditya")
 
 # Menghapus dua makanan favorit
 mydict["Makanan Favorit"] = ("Sate")
