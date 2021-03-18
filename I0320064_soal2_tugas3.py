@@ -3,6 +3,7 @@ mydict = {"Nama":"Muhammad Hafiz Aditya",
 "Hobi":("Fotografi","Membaca buku","Videografi"),
 "Sosmed":("Instagram : @hafiz_adit","Whatsapp : 081393856662","Line : tatank322"),
 "Makanan Favorit":("Bakso","Sate","Ayam")}
+print("\nDictionary sebelum diubah :\n", mydict)
 
 #Meengubah satu hobi dan sosial media
 mydict["Hobi"] = ("Fotografi", "Membaca buku", "Mendengarkan Musik")
