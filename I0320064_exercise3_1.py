@@ -1,5 +1,5 @@
 # INI TAMBAHAN
-
+## INI TAMBAHAN KEDUA
 
 # Mengakses nilai di dalam list
 lst1 = ["Fisika","Kimia",1998,2007]
