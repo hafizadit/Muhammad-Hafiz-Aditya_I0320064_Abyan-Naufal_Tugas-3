@@ -1,3 +1,5 @@
+# INI JUGA TAMBAHAN
+
 lst1 = ["Fisika","Kimia",1998,2007]
 
 print("")
